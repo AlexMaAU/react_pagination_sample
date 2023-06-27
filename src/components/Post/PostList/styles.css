@@ -1,0 +1,10 @@
+.postList {
+    text-align: center;
+    background-color: rgb(234, 234, 210);
+    width: 100%;
+    border: 1px solid lightsalmon;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+}

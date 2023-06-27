@@ -1,0 +1,8 @@
+.paginationList {
+    border-left: 1px solid palevioletred;
+    width: 100%;
+}
+
+.active {
+    background-color: palevioletred;
+}
